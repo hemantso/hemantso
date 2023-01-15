@@ -11,10 +11,10 @@ I am currently working as a Full Stack Software Developer at [Waya Money](https:
 
 If you'd like me to come work on one of your projects, you can reach me on:
 
-- [![Linkedin Badge](https://img.shields.io/badge/-Hemant%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemant-soni-97427b193/)](https://www.linkedin.com/in/hemant-soni-97427b193/)
+- [![Linkedin Badge](https://img.shields.io/badge/-Hemant%20Soni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemantso/)](https://www.linkedin.com/in/hemantso)
 - [Angelist](https://angel.co/u/hemantso)
 
 
-Or you can contact me through [my portfolio page](https://hemantsoni.netlify.app/) 💼!
+Or you can contact me through [my portfolio page](https://hemantsony.netlify.app/) 💼!
 
 ### Cheers and Happy hacking! 😁👍💻
