@@ -4,7 +4,7 @@
 <img align='right' src="https://media1.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif?cid=ecf05e47yvmdb2do7n27eaitsqafb62bkzsidma6evltkedr&rid=giphy.gif" width="230">
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-I am currently working as a Full Stack Software Developer at [Waya Money](https://www.wayamoney.com/).
+I am currently working as a Senir Software Developer at [Trulogik]([https://www.wayamoney.com/](https://www.trulogik.com/)).
 
 
 ## I'm interested in job offers! 🏢 🏃‍♂️💨
